@@ -14,7 +14,7 @@ public class Andoperator {
 			System.out.println("hi i am and operaror and i am false if one condition is false");
 		}
 			 
-
+//testing 
 	}
 
 }
